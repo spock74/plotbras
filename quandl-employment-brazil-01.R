@@ -42,7 +42,7 @@ d <- Quandl("WORLDBANK/BRA_SL_IND_EMPL_ZS",
             transformation = "rdiff", 
             collapse = "annual")
 
-p1 <- ggplot(a, aes(x=Date, y=Value)) +
+p1 <- ggplot(d, aes(x=Date, y=Value)) +
       geom_point(size = 6, colour='blue') + 
       ylim(-.5, .5) +
       stat_smooth() +
