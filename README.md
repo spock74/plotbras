@@ -3,8 +3,9 @@
 ---
 
 Some simple economic and social indicators about Brazil. Data are retrieved from web datasets provided by well known organizations, such as United Nations Statistics Division Data, World Health Organization, World Bank... and so on
-
+                  
 ---
+#R
 
 Gráficos simples sobre indicadores _simples_ de dados públicos divulgados por  organizaçõe renomadas, tais como União das Nações Unidas, Banco Mundial, FAO, FMI, Banco central do Brasil, IBGE, etc.
 
